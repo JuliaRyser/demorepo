@@ -21,3 +21,5 @@ max_pre = pre_data.max()
 mean_pre = round(pre_data.mean(), 2)
 
 print("minimal precipitation value: {}\nmaximal precipitation value: {}\nmean precipitation value: {}".format(min_pre, max_pre, mean_pre))
+
+#this is a comment to try GitKraken
